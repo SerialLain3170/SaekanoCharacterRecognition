@@ -10,5 +10,3 @@ You had better change SGD to Adam.
 ` $ python Judge.py `  
 Twitter bot which can judge who is the character in images.
 Please prepare `CONSUMER_KEY`, `CONSUMER_SECRET`, `ACCES_TOKEN` and `ACCESS_SECRET` by yourself.
-
-コメントアウトが少なくて申し訳ありませんが、不明な点は遠慮なく聞いてください。
